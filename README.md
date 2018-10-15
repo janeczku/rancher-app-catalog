@@ -1,1 +1,1 @@
-rancher-app-catalog
+# Example Rancher Helm Catalogue
