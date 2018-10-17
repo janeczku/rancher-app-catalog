@@ -1,1 +1,1 @@
-# Example Rancher Helm Catalogue
+# Example Rancher Helm Chart Catalog
